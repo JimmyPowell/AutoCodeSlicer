@@ -18,7 +18,7 @@
 首先，克隆本仓库至你的本地
 
 ``` shell
-git clone https://github.com/username/repository.git
+git clone https://github.com/JimmyPowell/AutoCodeSlicer
 ```
 然后，在项目根目录下运行以下代码来安装所依赖的库
 ```shell
