@@ -1,4 +1,4 @@
-# AutoRepoSlicerforCJ--自动化的仓库克隆与代码分片系统
+# AutoRepoSlicer--自动化的仓库克隆与代码分片系统
 
 ## 项目简介
 
